@@ -1,0 +1,80 @@
+body{
+    margin: 0px; 
+    padding: 0px;
+    }
+
+    body{
+        background-image: url(../img/s.jpg);
+       background-size: cover;
+    }
+    .nav{
+        position: fixed;
+        width: 100%;
+        line-height: 30x;
+    }
+    .nav ul{
+        float: right;
+        margin: 0;
+        padding: 40px;
+    
+    }
+    .nav ul li{
+        display: inline-block; 
+        padding: 3px 30px;
+        float: left;
+        
+    }
+    .nav ul li a{
+        text-decoration: none;
+        color: #fff;
+        font-size: 16px;
+    
+    }
+    .my_name{
+        color: white;
+        float: left;
+    }
+    p{
+        color: white;
+    }
+   .likha
+.btn1{
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    cursor: not-allowed;
+}
+.btn1:hover{
+    color: black;
+    background-color: #C2C2C3;
+
+}
+.btn2{
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+    
+}
+ul :hover{
+    color: black;
+    background-color: #5F6368;
+}
+.section2{
+    background-color: #313131;
+    padding: 10px;
+}
+.btn2:hover{
+    color: black;
+    background-color: #C2C2C3;
+}
+.section3{
+    color: white;
+    cursor: pointer;
+    
+}
+.section4{
+    color: white;
+}
